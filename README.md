@@ -1,7 +1,31 @@
 
+![GitHub last commit](https://img.shields.io/github/last-commit/tonythefreelancer/djhaitianmike)
+![GitHub repo size](https://img.shields.io/github/repo-size/tonythefreelancer/djhaitianmike)
+![License](https://img.shields.io/badge/license-Proprietary-blue)
+
 # DJ Haitian Mike - Booking System
+A complete DJ booking solution with WordPress plugin, static HTML export, and email verification system.
+
+---
+
+## 📖 Project Details
+
+**Purpose:**
+> Provide a comprehensive DJ booking system for DJ Haitian Mike, including a WordPress plugin, static HTML export, and original PHP implementation with email verification.
+
+**Tech Stack:**
+- WordPress (PHP, MySQL)
+- Vanilla PHP
+- HTML/CSS/JavaScript
+- SendGrid API (for email)
+
+**Usage:**
+- For DJs, event managers, and site admins to manage bookings, verify emails, and export data.
+
+---
 
 A complete DJ booking solution with WordPress plugin, static HTML export, and email verification system.
+
 
 ## 🎯 Overview
 
@@ -57,29 +81,30 @@ This project contains:
 
 ## 📋 File Structure
 
+
 ```
 e:\DJHM/
 ├── wordpress-plugin/
 │   ├── dj-booking-plugin/
-│   │   ├── dj-booking-plugin.php       (main plugin file)
-│   │   ├── README.txt                  (plugin readme)
+│   │   ├── dj-booking-plugin.php       # main plugin file
+│   │   ├── README.txt                  # plugin readme
 │   │   ├── assets/
 │   │   │   ├── style.css
 │   │   │   └── script.js
 │   │   └── templates/
 │   │       ├── booking-form.php
-│   │       ├── page-dj-booking.php     (page template)
+│   │       ├── page-dj-booking.php     # page template
 │   │       ├── dj-booking.css
 │   │       └── script.js
-│   └── dj-booking-plugin.zip           (ready to upload)
+│   └── dj-booking-plugin.zip           # ready to upload
 ├── export/
 │   ├── index.html
 │   ├── style.css
 │   ├── script.js
 │   └── README.md
-├── index.html                          (original)
-├── process.php                         (form processor)
-├── confirm.php                         (email verification)
+├── index.html                          # original
+├── process.php                         # form processor
+├── confirm.php                         # email verification
 ├── data/
 │   └── requests.json
 ├── Images/
@@ -197,6 +222,7 @@ Compress-Archive -Path "wordpress-plugin\dj-booking-plugin\*" -DestinationPath "
 - Responsive images and lazy-loaded video
 - Minimal JavaScript dependencies
 
+
 ## 📞 Support
 
 For issues:
@@ -205,9 +231,11 @@ For issues:
 3. Check database: `wp_dj_booking_requests` table exists and readable
 4. Test form submission locally first
 
+
 ## 📝 License
 
 All code in this repository is proprietary and created for DJ Haitian Mike.
+
 
 ## 🤝 Contributing
 
@@ -217,6 +245,16 @@ git add .
 git commit -m "Your message here"
 git push origin main
 ```
+
+---
+
+
+---
+
+## 🗒️ Changelog
+
+### 1.0.0 (2025-12-25)
+- Initial release: WordPress plugin, static HTML export, and PHP implementation
 
 ---
 
