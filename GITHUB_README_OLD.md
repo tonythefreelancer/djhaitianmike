@@ -1,4 +1,3 @@
-
 # DJ Haitian Mike - Booking System
 
 A complete DJ booking solution with WordPress plugin, static HTML export, and email verification system.
@@ -47,7 +46,7 @@ This project contains:
 1. Use files in `export/` folder
 2. Deploy to Netlify: drag & drop folder on app.netlify.com/drop
 3. Deploy to GitHub Pages: push `export/` to `username.github.io` repo
-4. Deploy to traditional hosting: upload via FTP/SFTP to public_html/
+4. Deploy to traditional hosting: upload via FTP/SFTP to public_html
 
 ### Original PHP (Self-hosted)
 1. Upload `index.html`, `process.php`, `confirm.php` to server
@@ -120,9 +119,9 @@ e:\DJHM/
 1. Get API key from SendGrid dashboard
 2. Add to WordPress via WP Mail SMTP plugin, or
 3. Set in `process.php` / `confirm.php`:
-	```php
-	$SENDGRID_API_KEY = "your-api-key-here";
-	```
+   ```php
+   $SENDGRID_API_KEY = "your-api-key-here";
+   ```
 
 ### Email Settings
 - Update `$FROM_EMAIL` and `$to_email` in PHP files
@@ -222,4 +221,3 @@ git push origin main
 
 **Last updated:** December 25, 2025  
 **Version:** 1.0.0
-
