@@ -1,5 +1,11 @@
 # Create PR and Apply Branch Protection
 
+## ⚠️ Important Note
+
+This task requires GitHub repository admin/write permissions that are not available to automated agents. This document provides complete instructions and scripts that can be executed by a user with appropriate GitHub access.
+
+## Task Summary
+
 This document provides instructions and scripts for creating a pull request from `add-readme-license` to `main` and applying branch protection rules to the `main` branch.
 
 ## Overview
