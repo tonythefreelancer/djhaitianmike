@@ -1,79 +1,52 @@
-# djhaitianmike
+# DJ Haitian Mike Booking System
 
-Repository for the djhaitianmike project by Tony (tonythefreelancer).
+A simple booking system for DJ Haitian Mike.
 
-## About
-A brief README for the project. Replace or expand this content with the project's actual purpose, features, and usage notes.
+## Overview
 
-## Table of Contents
-- About
-- Features
-- Requirements
-- Installation
-- Usage
-- Development
-- Configuration
-- Deployment
-- Contributing
-- License
-- Contact
+This repository contains the code and configuration for the DJ Haitian Mike booking system. It provides booking management, contact information, and integrations needed to accept and manage event requests.
 
-## Features
-- Feature 1 — short description
-- Feature 2 — short description
-- Feature 3 — short description
+## Features (starter)
+- Create and manage bookings
+- Store client contact details
+- Basic admin interface for viewing upcoming events
+- (Optional) calendar and payment integrations
 
-## Requirements
-List required tools and versions, for example:
-- Node.js >= 18 (or the project's runtime)
-- npm or yarn
-- Any other services (database, external APIs)
+## Getting started
 
-## Installation
-1. Clone the repo:
-   git clone https://github.com/Tonythefreelancer/djhaitianmike.git
-2. Enter the project directory:
+1. Clone the repository
+   ```
+   git clone https://github.com/tonythefreelancer/djhaitianmike.git
    cd djhaitianmike
-3. Install dependencies (if applicable):
-   npm install
-4. Create a .env file from .env.example and set environment variables.
+   ```
+
+2. Follow any language-specific setup steps (e.g., install dependencies) — add exact instructions here once the project language/framework is added.
 
 ## Usage
-- Start in development:
-  npm run dev
-- Build for production:
-  npm run build
-- Run tests:
-  npm test
 
-(Adjust commands to match the project's actual tooling.)
+- Run the app locally (replace with actual commands once project details are added).
+  ```
+  # example
+  npm install
+  npm start
+  ```
 
 ## Development
-- Coding style and linters (e.g., ESLint, Prettier)
-- Branching model and commit conventions
-- How to run the app in debug mode
 
-## Configuration
-- .env.example — example environment variables
-- config/ — describe any configuration files
-
-## Deployment
-Short notes on how to deploy (e.g., Vercel, Netlify, Docker, Heroku). Include any relevant commands.
+- Create a branch for your feature or fix:
+  ```
+  git checkout -b feature/your-feature
+  ```
+- Open a pull request against `main` when ready.
 
 ## Contributing
-- Open an issue first to discuss major changes
-- Fork the repo and create a branch for your feature/fix
-- Submit pull requests with a clear description and tests if applicable
+
+Contributions are welcome. Please open an issue to discuss major changes before submitting a pull request.
 
 ## License
-Specify the license (e.g., MIT) or add one to the repository.
+
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## Contact
-Project author: Tony (tonythefreelancer)
 
-
-Placeholder files to consider adding:
-- .env.example
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- ISSUE_TEMPLATE.md / PULL_REQUEST_TEMPLATE.md
+Owner: [tonythefreelancer](https://github.com/tonythefreelancer)
