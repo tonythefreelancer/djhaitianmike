@@ -1,0 +1,8 @@
+{
+  "name": "djhaitianmike/project",
+  "description": "A complete DJ booking solution.",
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "vlucas/phpdotenv": "^5.0"
+  }
+}
