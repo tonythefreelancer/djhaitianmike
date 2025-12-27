@@ -4,17 +4,33 @@
 
 # Project Description
 
-_Describe your project goals, target audience, and main features here._
+This repository is the starting point for a new project. Please define your project goals, target audience, and main features in this section as soon as possible.
 
 # Setup Instructions
 
-1. Clone the repository
-2. Install dependencies (add commands here as the tech stack is chosen)
-3. Run initial setup scripts or configuration steps
+1. Clone the repository:
+	```sh
+	git clone <your-repo-url>
+	```
+2. Install dependencies (add commands here as the tech stack is chosen):
+	```sh
+	# Example for Node.js
+	npm install
+	# Example for Python
+	pip install -r requirements.txt
+	```
+3. Run initial setup scripts or configuration steps (add details as needed).
 
 # Folder Structure
 
-_Document the main folders and their purposes as the project grows._
+Add a summary of the main folders and their purposes as the project grows. For example:
+
+```
+src/        # Source code
+docs/       # Documentation
+tests/      # Test suite
+scripts/    # Utility scripts
+```
 
 # Contribution Guidelines
 
@@ -33,22 +49,22 @@ _Update this file as soon as substantive code or documentation is added._
 
 # Usage
 
-_Add instructions and examples for using the project once implemented._
+Add instructions and examples for using the project as features are implemented. For now, this section is a placeholder.
 
 # License
 
-_Specify the license for this project (e.g., MIT, Apache 2.0)._ 
+Specify the license for this project (e.g., MIT, Apache 2.0) once decided. For now, this section is a placeholder.
 
 # Contact
 
-_Provide contact information or links for project maintainers._
+Provide contact information or links for project maintainers here. For now, this section is a placeholder.
 
 ## Next Steps
 
-1. Define the project goals and requirements.
-2. Choose the tech stack and main frameworks/libraries.
-3. Set up the initial folder structure and configuration files.
-4. Document any conventions or workflows as they emerge.
+1. Define the project goals and requirements in the Project Description section.
+2. Choose the tech stack and main frameworks/libraries, and update the Setup Instructions accordingly.
+3. Set up the initial folder structure and configuration files, and document them in the Folder Structure section.
+4. Document any conventions or workflows as they emerge, both here and in .github/copilot-instructions.md.
 
 ## How to Contribute
 

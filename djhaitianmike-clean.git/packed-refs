@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+ba7e44b0ba674c73ed3da360da8bce5de1f281f3 refs/heads/add-readme-license
+d55d5945cb383fd2df15c944cce55c2202cf4def refs/heads/add-repo-templates
+b300abc782231890deb7af3c7647e9d082c47c23 refs/heads/copilot/add-readme-license-to-main
+c65c43c066d8886ab6defc8e4cf84070b43ee14b refs/heads/main
+b300abc782231890deb7af3c7647e9d082c47c23 refs/pull/1/head
+b72594aa57f1ec7ef7d8e559921f8ccfce4ccd38 refs/pull/1/merge
+ba7e44b0ba674c73ed3da360da8bce5de1f281f3 refs/pull/2/head
+d55d5945cb383fd2df15c944cce55c2202cf4def refs/pull/3/head
